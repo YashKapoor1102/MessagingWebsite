@@ -20,17 +20,23 @@ Usage:
 -------
 Step 1:  Clone the repository by typing the following command in your terminal:
 
-```https://github.com/YashKapoor1102/InstantMessagingWebsite.git
-cd InstantMessagingWebsite```
+```
+https://github.com/YashKapoor1102/InstantMessagingWebsite.git
+cd InstantMessagingWebsite
+```
 
 Step 2: Navigate to the project depository and install the necessary Node.js packages
 in the client and server folders.
 
-```cd client
-npm install```
+```
+cd client
+npm install
+```
 
-```cd server
-npm install```
+```
+cd server
+npm install
+```
 
 Step 3: Ensure that MySQL is installed and running on your machine. Then, import the database schema into your local MySQL server by executing the following command:
 
@@ -44,7 +50,8 @@ If you have not created a database yet, you can do so using the following comman
 
 Step 4: Create a ".env" file by navigating to the server directory and add the following:
 
-```PORT=5000
+```
+PORT=5000
 
 DB_HOST="localhost"
 DB_USER=yourUsername
@@ -54,24 +61,31 @@ DB_NAME=yourDatabaseName
 CLIENT_URL="http://localhost:3000"
 
 MAIL_ADDRESS = "your-email@example.com"
-MAIL_PASSWORD = "your-email-password"```
+MAIL_PASSWORD = "your-email-password"
+```
 
 Step 5: Create a ".env" file by navigating to the client directory and add the following:
 
-```REACT_APP_PARLONS_URL="http://localhost:5000/api"
-REACT_APP_PARLONS_PROFILE_URL="http://localhost:5000"```
+```
+REACT_APP_PARLONS_URL="http://localhost:5000/api"
+REACT_APP_PARLONS_PROFILE_URL="http://localhost:5000"
+```
 
 Step 6: Navigate to the server directory and start the Node.js server by running:
 
-```cd server
-npm start```
+```
+cd server
+npm start
+```
 
 This will start the backend server. Keep this terminal window open to continue running the server.
 
 Next, open a new terminal window or tab. Navigate to the client directory and start the React application:
 
-```cd client 
-npm start```
+```
+cd client 
+npm start
+```
 
 This will launch the React application that is typically accessible at http://localhost:3000. Keep this terminal window open to continue running the client.
 
