@@ -20,14 +20,14 @@ Installation:
 
 Usage:
 -------
-Step 1:  Clone the repository by typing the following command in your terminal:
+**Step 1:**  Clone the repository by typing the following command in your terminal:
 
 ```
 https://github.com/YashKapoor1102/InstantMessagingWebsite.git
 cd InstantMessagingWebsite
 ```
 
-Step 2: Navigate to the project depository and install the necessary Node.js packages
+**Step 2:** Navigate to the project depository and install the necessary Node.js packages
 in the client and server folders.
 
 Type the following commands in the terminal sequentially:
@@ -42,7 +42,7 @@ cd ../server
 npm install
 ```
 
-Step 3: Ensure that MySQL is installed and running on your machine. 
+**Step 3:** Ensure that MySQL is installed and running on your machine. 
 Then, import the database schema into your local MySQL server by executing the following command:
 
 `mysql -u username -p database-name < database/InstantMessagingWebsiteSchema.sql`
@@ -54,7 +54,7 @@ If you have not created a database yet, you can do so using the following comman
 
 `mysql -u username -p -e "CREATE DATABASE database-name"`
 
-Step 4: Create a ".env" file by navigating to the server directory and add the following:
+**Step 4:** Create a ".env" file by navigating to the server directory and add the following:
 
 ```
 PORT=5000
@@ -70,14 +70,14 @@ MAIL_ADDRESS = "your-email@example.com"
 MAIL_PASSWORD = "your-email-password"
 ```
 
-Step 5: Create a ".env" file by navigating to the client directory and add the following:
+**Step 5:** Create a ".env" file by navigating to the client directory and add the following:
 
 ```
 REACT_APP_PARLONS_URL="http://localhost:5000/api"
 REACT_APP_PARLONS_PROFILE_URL="http://localhost:5000"
 ```
 
-Step 6: Navigate to the server directory and start the Node.js server by running:
+**Step 6:** Navigate to the server directory and start the Node.js server by running:
 
 ```
 cd server
