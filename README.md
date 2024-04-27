@@ -3,7 +3,9 @@ Email: YashKapoor@cmail.carleton.ca
 
 Description:
 ------------
-This instant messaging website facilitates real-time communication, allowing users to interact seamlessly. Key features of this application include:
+This instant messaging website facilitates real-time communication, allowing users to interact seamlessly. 
+
+Key features of this application include:
 
 1. **Profile Setup:** Users can quickly set up their profiles to start messaging.
 2. **Messaging Capabilities:** Exchange text, emojis, and media files in a user-friendly environment.
@@ -28,21 +30,25 @@ cd InstantMessagingWebsite
 Step 2: Navigate to the project depository and install the necessary Node.js packages
 in the client and server folders.
 
+Type the following commands in the terminal sequentially:
+
 ```
 cd client
 npm install
 ```
 
 ```
-cd server
+cd ../server
 npm install
 ```
 
-Step 3: Ensure that MySQL is installed and running on your machine. Then, import the database schema into your local MySQL server by executing the following command:
+Step 3: Ensure that MySQL is installed and running on your machine. 
+Then, import the database schema into your local MySQL server by executing the following command:
 
 `mysql -u username -p database-name < database/InstantMessagingWebsiteSchema.sql`
 
-Replace "username" with your MySQL username and "database-name" with the name of the database you are using for this project. Make sure you replace "database-name" with the actual name of the database you created for this application.
+Replace "username" with your MySQL username and "database-name" with the name of the database you are using for this project. 
+Make sure you replace "database-name" with the actual name of the database you created for this application.
 
 If you have not created a database yet, you can do so using the following command:
 
@@ -87,7 +93,8 @@ cd client
 npm start
 ```
 
-This will launch the React application that is typically accessible at http://localhost:3000. Keep this terminal window open to continue running the client.
+This will launch the React application that is typically accessible at http://localhost:3000. 
+Keep this terminal window open to continue running the client.
 
 Credits:
 -------
