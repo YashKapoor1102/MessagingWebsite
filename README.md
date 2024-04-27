@@ -1,5 +1,5 @@
-Author of this README file: Yash Kapoor 
-Email: YashKapoor@cmail.carleton.ca
+**Author of this README file:** Yash Kapoor   
+**Email:** YashKapoor@cmail.carleton.ca
 
 Description:
 ------------
