@@ -27,7 +27,7 @@ https://github.com/YashKapoor1102/InstantMessagingWebsite.git
 cd InstantMessagingWebsite
 ```
 
-**Step 2:** Navigate to the project depository and install the necessary Node.js packages
+**Step 2:** Navigate to the project repository and install the necessary Node.js packages
 in the client and server folders.
 
 Type the following commands in the terminal sequentially:
