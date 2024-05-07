@@ -11,9 +11,7 @@ real-time communication across the internet.
 See our instant messaging website in action. Watch this quick demo:
 https://drive.google.com/file/d/1V6eaOUXjuAsTEJaRKxQ37y0lwn40D8kg/view?usp=drive_link
 
-
-Description:
-------------
+## Description
 This instant messaging website facilitates real-time communication, allowing users to interact seamlessly. 
 
 Key features of this application include:
@@ -24,13 +22,11 @@ Key features of this application include:
 4. **Group Management:** Easily add new members to existing group chats.
 5. **Message Scheduling:** An innovative feature of our application is that users can schedule messages to be sent at a later time. 
 
-Installation:
--------------
+## Installation
 1. Ensure you have Node.js installed on your machine. You can download it from https://nodejs.org/.
 2. Install MySQL on your machine following the installation guide at https://www.mysql.com/.
 
-Usage:
--------
+## Usage
 **Step 1:**  Clone the repository by typing the following command in your terminal:
 
 ```
@@ -107,8 +103,7 @@ npm start
 This will launch the React application that is typically accessible at http://localhost:3000. 
 Keep this terminal window open to continue running the client.
 
-Credits:
--------
+## Credits
 - Yash Kapoor
 - Yaw Asamoah
 - Ibrahim Saidhi
