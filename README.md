@@ -1,6 +1,17 @@
 **Author of this README file:** Yash Kapoor   
 **Email:** YashKapoor@cmail.carleton.ca
 
+# Instant Messaging Website
+
+## Introduction
+Welcome to our instant messaging website, a dynamic platform designed to facilitate
+real-time communication across the internet. 
+
+## Demo 
+See our instant messaging website in action. Watch this quick demo:
+https://drive.google.com/file/d/1V6eaOUXjuAsTEJaRKxQ37y0lwn40D8kg/view?usp=drive_link
+
+
 Description:
 ------------
 This instant messaging website facilitates real-time communication, allowing users to interact seamlessly. 
