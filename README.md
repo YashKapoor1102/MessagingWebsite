@@ -1,6 +1,3 @@
-**Author of this README file:** Yash Kapoor   
-**Email:** YashKapoor@cmail.carleton.ca
-
 # Instant Messaging Website
 
 ## Introduction
@@ -108,3 +105,6 @@ Keep this terminal window open to continue running the client.
 - Yaw Asamoah
 - Ibrahim Saidhi
 - Tao Lufula
+
+**Author of this README file:** Yash Kapoor   
+**Email:** YashKapoor@cmail.carleton.ca
