@@ -103,8 +103,8 @@ Keep this terminal window open to continue running the client.
 ## Credits
 - Yash Kapoor: Conversation window, list of chats interface and associated back-end functionality, one-on-one and group chats functionality, multimedia support, and scheduled messages.
 - Yaw Asamoah: Registration, back-end contacts page, email verification, and forget password functionality.
-- Ibrahim Saidhi: Notifications, Emoji support
-- Tao Lufula: Front-end contacts, homepage design, login and logout functionality
+- Ibrahim Saidhi: Notifications and Emoji support.
+- Tao Lufula: Front-end contacts, homepage design, login, and logout functionality.
 
 **Author of this README file:** Yash Kapoor   
 **Email:** YashKapoor@cmail.carleton.ca
