@@ -101,7 +101,7 @@ This will launch the React application that is typically accessible at http://lo
 Keep this terminal window open to continue running the client.
 
 ## Credits
-- Yash Kapoor: Conversation window, list of chats interface and associated back-end functionality, one-on-one and group chats functionality, multimedia support, and scheduling messages.
+- Yash Kapoor: Conversation window, list of chats interface and associated back-end functionality, one-on-one and group chats functionality, multimedia support, and scheduled messages.
 - Yaw Asamoah: Registration, back-end contacts page, email verification, and forget password functionality.
 - Ibrahim Saidhi: Notifications, Emoji support
 - Tao Lufula: Front-end contacts, homepage design, login and logout functionality
