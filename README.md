@@ -101,7 +101,7 @@ This will launch the React application that is typically accessible at http://lo
 Keep this terminal window open to continue running the client.
 
 ## Full Report
-For a comprehensive understanding of the development and functionalities of our instant messaging website, access the full capstone project report. This document includes detailed discussions of the design decisions, technologies used, challenges faced, and solutions implemented during the development process. 
+For a comprehensive understanding of the development and functionalities of our instant messaging website, access the full capstone project report. This document includes detailed discussions of the planning process, design decisions, technologies used, challenges faced, and solutions implemented during the development process. 
 
 You can view the report using the following link:
 https://drive.google.com/file/d/1iC-d2Z7P4U_WXVh4qFWcEahzYZ5pB01l/view?usp=drive_link
