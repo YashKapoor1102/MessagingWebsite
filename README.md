@@ -113,4 +113,4 @@ https://drive.google.com/file/d/1iC-d2Z7P4U_WXVh4qFWcEahzYZ5pB01l/view?usp=drive
 - Tao Lufula: Front-end contacts, homepage design, login, and logout functionality.
 
 **Author of this README file:** Yash Kapoor   
-**Email:** YashKapoor@cmail.carleton.ca
+**Email:** yashkapooruni@gmail.com
