@@ -27,8 +27,8 @@ Key features of this application include:
 **Step 1:**  Clone the repository by typing the following command in your terminal:
 
 ```
-git clone https://github.com/YashKapoor1102/InstantMessagingWebsite.git
-cd InstantMessagingWebsite
+git clone https://github.com/YashKapoor1102/MessagingWebsite.git
+cd MessagingWebsite
 ```
 
 **Step 2:** Navigate to the project repository and install the necessary Node.js packages
