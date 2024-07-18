@@ -27,7 +27,7 @@ Key features of this application include:
 **Step 1:**  Clone the repository by typing the following command in your terminal:
 
 ```
-https://github.com/YashKapoor1102/InstantMessagingWebsite.git
+git clone https://github.com/YashKapoor1102/InstantMessagingWebsite.git
 cd InstantMessagingWebsite
 ```
 
